@@ -3,7 +3,7 @@ export const home = () => {
     const divHome = document.createElement('div');
 
     const viewHome = `
-    <h1>Hola mundirijillo</h1>
+    <h1>Holii <3</h1>
     <button id='loginGoogle'>Login con Google</buttom>
     `
 
