@@ -6,10 +6,33 @@
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>Document</title>
 </head>
-<body>
-<div id="root"></div>
-<!-- <h1>Hola Mundirijillo</h1> -->
 
-<script type="module" src="main.js"></script>
+<body>
+  <div id="root"></div>
+
+  <script type="module" src="main.js"></script>
+  <!-- The core Firebase JS SDK is always required and must be listed first -->
+  <script src="https://www.gstatic.com/firebasejs/7.17.1/firebase-app.js"></script>
+
+  <!-- TODO: Add SDKs for Firebase products that you want to use
+     https://firebase.google.com/docs/web/setup#available-libraries -->
+     <script src="https://www.gstatic.com/firebasejs/7.17.1/firebase-auth.js"></script>
+     <script src="https://www.gstatic.com/firebasejs/7.17.1/firebase-firestore.js"></script>
+
+  <script>
+    // Your web app's Firebase configuration
+    var firebaseConfig = {
+      apiKey: "AIzaSyDC3UIxtLTHmYfJpzs1XcMwPo2uijK9XtA",
+      authDomain: "scl014spafirebase.firebaseapp.com",
+      databaseURL: "https://scl014spafirebase.firebaseio.com",
+      projectId: "scl014spafirebase",
+      storageBucket: "scl014spafirebase.appspot.com",
+      messagingSenderId: "5362715001",
+      appId: "1:5362715001:web:f44eeb3d0f1db7f8a7c7a8"
+    };
+    // Initialize Firebase
+    firebase.initializeApp(firebaseConfig);
+  </script>
 </body>
+
 </html>
