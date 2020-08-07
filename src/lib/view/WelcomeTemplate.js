@@ -1,7 +1,7 @@
 export const welcome = () => {
   // const divWelcome = document.createElement('div');
   const viewWelcome = `
-    <h2>Bievenida a</h2>
+    <<h2>Bievenida a</h2>
     <div id="logoContainer">
     <img id="logo" src="imagenes/witLogo.png" alt="logo"> 
     </div>
