@@ -47,7 +47,9 @@ Teniendo en consideración nuestras historias de usuarios, empezamos a establece
 
 ## DISEÑO Y PROTOTIPADO
 En atención a ello empezamos a diseñar un prototipo de baja fidelidad en Balsamiq:
+
 -	Versión Mobile: 
+
 ![Bmobile1](https://github.com/JenifferGenoves/SCL014-social-network/blob/master/src/imagenes/imgReadme/Bmobile1.jpeg)
 ![Bmobile2](https://github.com/JenifferGenoves/SCL014-social-network/blob/master/src/imagenes/imgReadme/Bmobile2.jpeg)
 ![Bmobile3](https://github.com/JenifferGenoves/SCL014-social-network/blob/master/src/imagenes/imgReadme/Bmobile3.jpeg)
@@ -57,6 +59,7 @@ En atención a ello empezamos a diseñar un prototipo de baja fidelidad en Balsa
 ![Bmobile7](https://github.com/JenifferGenoves/SCL014-social-network/blob/master/src/imagenes/imgReadme/Bmobile7.jpeg)
 
 -	Versión Web:  
+
 ![Bweb1](https://github.com/JenifferGenoves/SCL014-social-network/blob/master/src/imagenes/imgReadme/Bweb1.jpeg)
 ![Bweb2](https://github.com/JenifferGenoves/SCL014-social-network/blob/master/src/imagenes/imgReadme/Bweb2.jpeg)
 ![Bweb3](https://github.com/JenifferGenoves/SCL014-social-network/blob/master/src/imagenes/imgReadme/Bweb3.jpeg)
@@ -68,6 +71,7 @@ En atención a ello empezamos a diseñar un prototipo de baja fidelidad en Balsa
 Posteriormente, realizamos nuestro prototipo de alta fidelidad en Figma, tanto para las versiones mobile y web: 
 
 -	Versión Mobile: 
+
 ![FigMobile1](https://github.com/JenifferGenoves/SCL014-social-network/blob/master/src/imagenes/imgReadme/FigMobile1.jpeg)
 ![FigMobile2](https://github.com/JenifferGenoves/SCL014-social-network/blob/master/src/imagenes/imgReadme/FigMobile2.jpeg)
 ![FigMobile3](https://github.com/JenifferGenoves/SCL014-social-network/blob/master/src/imagenes/imgReadme/FigMobile3.jpeg)
