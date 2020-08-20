@@ -1,7 +1,7 @@
 ## WIT
 ¡Bienvenidos a WIT! 
 
-![witLogo1](https://github.com/JenifferGenoves/SCL014-social-network/blob/master/src/imagenes/witLogo1.png)
+![witLogoReadme](https://github.com/JenifferGenoves/SCL014-social-network/blob/master/src/imagenes/witLogoReadme.png)
 
 La red para mujeres en tecnología. 
 
