@@ -25,10 +25,10 @@ Dicha encuesta obtuvo los siguientes resultados:
 
 En razón a las respuestas obtenidas, empezamos a elaborar nuestras historias de usuarios. 
 
-![Gráfico3](src/imagenes/imgReadme/Grafico3.png)
-![Gráfico1](src/imagenes/imgReadme/Grafico1.png)
-![Gráfico2](src/imagenes/imgReadme/Grafico2.png)
-![Gráfico4](src/imagenes/imgReadme/Grafico4.png)
+![Gráfico3](https://github.com/JenifferGenoves/SCL014-social-network/blob/master/src/imagenes/imgReadme/Grafico3.png)
+![Gráfico1](https://github.com/JenifferGenoves/SCL014-social-network/blob/master/src/imagenes/imgReadme/Grafico1.png)
+![Gráfico2](https://github.com/JenifferGenoves/SCL014-social-network/blob/master/src/imagenes/imgReadme/Grafico2.png)
+![Gráfico4](https://github.com/JenifferGenoves/SCL014-social-network/blob/master/src/imagenes/imgReadme/Grafico4.png)
 
 
 
@@ -42,44 +42,44 @@ Las historias de usuarios que obtuvimos de nuestra encuesta fueron las siguiente
 
 ## CREACIÓN DE FLUJOS DE INFORMACIÓN 
 Teniendo en consideración nuestras historias de usuarios, empezamos a establecer los flujos de información que eran necesarios para que el usuario pudiera acceder a los distintos hitos de las historias de usuario. 
-![DiagrDeFlujo](src/imagenes/imgReadme/DiagrDeFlujo.png)
+![DiagrDeFlujo](https://github.com/JenifferGenoves/SCL014-social-network/blob/master/src/imagenes/imgReadme/DiagrDeFlujo.png)
 
 
 ## DISEÑO Y PROTOTIPADO
 En atención a ello empezamos a diseñar un prototipo de baja fidelidad en Balsamiq:
 -	Versión Mobile: 
-![Bmobile1](src/imagenes/imgReadme/Bmobile1.jpeg)
-![Bmobile2](src/imagenes/imgReadme/Bmobile2.jpeg)
-![Bmobile3](src/imagenes/imgReadme/Bmobile3.jpeg)
-![Bmobile4](src/imagenes/imgReadme/Bmobile4.jpeg)
-![Bmobile5](src/imagenes/imgReadme/Bmobile5.jpeg)
-![Bmobile6](src/imagenes/imgReadme/Bmobile6.jpeg)
-![Bmobile1](src/imagenes/imgReadme/Bmobile7.jpeg)
+![Bmobile1](https://github.com/JenifferGenoves/SCL014-social-network/blob/master/src/imagenes/imgReadme/Bmobile1.jpeg)
+![Bmobile2](https://github.com/JenifferGenoves/SCL014-social-network/blob/master/src/imagenes/imgReadme/Bmobile2.jpeg)
+![Bmobile3](https://github.com/JenifferGenoves/SCL014-social-network/blob/master/src/imagenes/imgReadme/Bmobile3.jpeg)
+![Bmobile4](https://github.com/JenifferGenoves/SCL014-social-network/blob/master/src/imagenes/imgReadme/Bmobile4.jpeg)
+![Bmobile5](https://github.com/JenifferGenoves/SCL014-social-network/blob/master/src/imagenes/imgReadme/Bmobile5.jpeg)
+![Bmobile6](https://github.com/JenifferGenoves/SCL014-social-network/blob/master/src/imagenes/imgReadme/Bmobile6.jpeg)
+![Bmobile7](https://github.com/JenifferGenoves/SCL014-social-network/blob/master/src/imagenes/imgReadme/Bmobile7.jpeg)
 
 -	Versión Web:  
-![Bweb1](src/imagenes/imgReadme/Bweb1.jpeg)
-![Bweb2](src/imagenes/imgReadme/Bweb2.jpeg)
-![Bweb3](src/imagenes/imgReadme/Bweb3.jpeg)
-![Bweb4](src/imagenes/imgReadme/Bweb4.jpeg)
-![Bweb5](src/imagenes/imgReadme/Bweb5.jpeg)
-![Bweb6](src/imagenes/imgReadme/Bweb6.jpeg)
-![Bweb7](src/imagenes/imgReadme/Bweb7.jpeg)
+![Bweb1](https://github.com/JenifferGenoves/SCL014-social-network/blob/master/src/imagenes/imgReadme/Bweb1.jpeg)
+![Bweb2](https://github.com/JenifferGenoves/SCL014-social-network/blob/master/src/imagenes/imgReadme/Bweb2.jpeg)
+![Bweb3](https://github.com/JenifferGenoves/SCL014-social-network/blob/master/src/imagenes/imgReadme/Bweb3.jpeg)
+![Bweb4](https://github.com/JenifferGenoves/SCL014-social-network/blob/master/src/imagenes/imgReadme/Bweb4.jpeg)
+![Bweb5](https://github.com/JenifferGenoves/SCL014-social-network/blob/master/src/imagenes/imgReadme/Bweb5.jpeg)
+![Bweb6](https://github.com/JenifferGenoves/SCL014-social-network/blob/master/src/imagenes/imgReadme/Bweb6.jpeg)
+
 
 Posteriormente, realizamos nuestro prototipo de alta fidelidad en Figma, tanto para las versiones mobile y web: 
 
 -	Versión Mobile: 
-![FigMobile1](src/imagenes/imgReadme/FigMobile1.jpeg)
-![FigMobile2](src/imagenes/imgReadme/FigMobile2.jpeg)
-![FigMobile3](src/imagenes/imgReadme/FigMobile3.jpeg)
-![FigMobile4](src/imagenes/imgReadme/FigMobile4.jpeg)
-![FigMobile5](src/imagenes/imgReadme/FigMobile5.jpeg)
+![FigMobile1](https://github.com/JenifferGenoves/SCL014-social-network/blob/master/src/imagenes/imgReadme/FigMobile1.jpeg)
+![FigMobile2](https://github.com/JenifferGenoves/SCL014-social-network/blob/master/src/imagenes/imgReadme/FigMobile2.jpeg)
+![FigMobile3](https://github.com/JenifferGenoves/SCL014-social-network/blob/master/src/imagenes/imgReadme/FigMobile3.jpeg)
+![FigMobile4](https://github.com/JenifferGenoves/SCL014-social-network/blob/master/src/imagenes/imgReadme/FigMobile4.jpeg)
+![FigMobile5](https://github.com/JenifferGenoves/SCL014-social-network/blob/master/src/imagenes/imgReadme/FigMobile5.jpeg)
 
 -	Versión Web: 
 
-![FigWeb1](src/imagenes/imgReadme/FigWeb1.jpeg)
-![FigWeb2](src/imagenes/imgReadme/FigWeb2.jpeg)
-![FigWeb3](src/imagenes/imgReadme/FigWeb3.jpeg)
-![FigWeb4](src/imagenes/imgReadme/FigWeb4.jpeg)
+![FigWeb1](https://github.com/JenifferGenoves/SCL014-social-network/blob/master/src/imagenes/imgReadme/FigWeb1.jpeg)
+![FigWeb2](https://github.com/JenifferGenoves/SCL014-social-network/blob/master/src/imagenes/imgReadme/FigWeb2.jpeg)
+![FigWeb3](https://github.com/JenifferGenoves/SCL014-social-network/blob/master/src/imagenes/imgReadme/FigWeb3.jpeg)
+![FigWeb4](https://github.com/JenifferGenoves/SCL014-social-network/blob/master/src/imagenes/imgReadme/FigWeb4.jpeg)
 
 
 ## NOTA PARA PROGRAMADORES
