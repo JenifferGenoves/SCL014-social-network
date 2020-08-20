@@ -26,9 +26,9 @@ Dicha encuesta obtuvo los siguientes resultados:
 En razón a las respuestas obtenidas, empezamos a elaborar nuestras historias de usuarios. 
 
 ![Gráfico3](src/imagenes/imgReadme/Grafico3.png)
-![Gráfico1](src/imagenes/imgReadme/Grafico3.png)
-![Gráfico2](src/imagenes/imgReadme/Grafico3.png)
-![Gráfico4](src/imagenes/imgReadme/Grafico3.png)
+![Gráfico1](src/imagenes/imgReadme/Grafico1.png)
+![Gráfico2](src/imagenes/imgReadme/Grafico2.png)
+![Gráfico4](src/imagenes/imgReadme/Grafico4.png)
 
 
 
