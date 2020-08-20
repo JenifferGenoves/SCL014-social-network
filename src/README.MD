@@ -6,12 +6,12 @@
 La red para mujeres en tecnología. 
 
 
-## ¿A QUIENES ESTA DIRIGIDO WIT?
+## ¿A QUIÉNES ESTA DIRIGIDO WIT?
 
 WIT está dirigido a todas las mujeres que se encuentren dentro del mundo Tech, y que quieran buscar una comunidad de apoyo y desarrollo para poder seguir avanzando en romper la brecha de participación femenina en el área de la tecnología. 
 
 
-## ¿CUAL ES EL ORIGEN DE WIT? 
+## ¿CUÁL ES EL ORIGEN DE WIT? 
 
 WIT (Women In Technology) nace de la necesidad que observamos al interiorizarnos en el mundo de la tecnología en nuestro paso por Laboratoria y ver que los participantes que tienen más visibilidad en esta área son hombres en su mayoría. Un claro ejemplo de esto es hacer una búsqueda de tutoriales de programación en Youtube y darnos cuenta de que gran parte de los videos dedicados a ellos, son realizados por hombres; o en la búsqueda de grupos de mujeres en programación en Facebook, igual nos muestra que hay pocas instancias. Lo anterior, sumado al auge de iniciativas para promover la participación de mujeres en el mundo tecnológico, estás no colaboren de una forma más participativa, con lo cual se evita crear una comunidad de mujeres que busque apoyarnos entre todas para cada día ser más en tecnología y poder motivar a generaciones más jóvenes a participar de este mundo.
 
